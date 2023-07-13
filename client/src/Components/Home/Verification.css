@@ -1,0 +1,12 @@
+.dataContainer {
+    padding: 30px;
+    border-Radius: 5px;
+    margin: auto;
+    width: 100%;
+    background-Color: #b4d9fc;
+    box-Shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+}
+.sButton{
+    border-Radius: 10px;
+    box-Shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+  }
